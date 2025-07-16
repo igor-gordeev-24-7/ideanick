@@ -3,6 +3,6 @@
     "prettier": "^3.6.2"
   },
   "scripts": {
-    "prettify": "prettier --log-level warn --cache --write \"src/**/*.{ts,tsx,js,json,yml,scss}\" \"!**/{node_modules,dist}/**/*\""
+    "prettify": "prettier --log-level warn --cache --write \"**/*.{ts,tsx,js,json,yml,scss,html}\" \"!**/{node_modules,dist}/**/*\""
   }
 }
