@@ -1,0 +1,10 @@
+{
+  "name": "backend",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A backend for the frontend",
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "typescript": "^5.8.3"
+  }
+}
